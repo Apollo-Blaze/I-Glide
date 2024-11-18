@@ -92,7 +92,7 @@ def main():
     while True:
         success, img = cap.read()
         if not success:
-            print("Failed to capture frame from camera. Exiting...")
+            print("Failed to capture frame from camera. Exiting....")
             break
 
         img = cv.flip(img, 1)

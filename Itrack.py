@@ -12,7 +12,7 @@ frameR=100
 smoothening=10
 
 prevY = 0
-scrollCooldown = 0.1  # 100ms delay between scrolls
+scrollCooldown = 0.1
 lastScrollTime = time.time()
 
 plocX,plocY=0,0
