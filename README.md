@@ -18,7 +18,7 @@
 
 Here’s a quick look at **Glide** in action:
 
-![Glide Demo](path/to/demo.gif)
+![Glide Demo](./demo.gif)
 
 ---
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Developed with 💡 by [Your Name]([https://github.com/yourusername](https://github.com/Apollo-Blaze/).  
+Developed with 💡 by [Apollo_Blaze]([https://github.com/Apollo-Blaze](https://github.com/Apollo-Blaze/).  
